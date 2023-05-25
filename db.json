@@ -3,6 +3,8 @@
         "Username":"sonu",
         "Email":"sonu@gmail.com",
         "Password":"123",
+        "Doctor":true,
         "id":1
     }]
+   
 }
